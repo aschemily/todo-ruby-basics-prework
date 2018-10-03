@@ -19,10 +19,10 @@ def return_a_value(phrase="nice")
 return phrase
 end
 
-def last_evaluated_value()
- 
+def last_evaluated_value
+ last_evaluated_value("expert")
 end
-last_evaluated_value("expert")
+
 
 def pizza_party
 pizza_party("cheese")
