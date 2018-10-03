@@ -20,7 +20,7 @@ return phrase
 end
 
 def last_evaluated_value
-last_evaluated_value("expert")
+return last_evaluated_value("expert")
 end
 
 def pizza_party
